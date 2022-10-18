@@ -19,6 +19,7 @@ a:visited {
 }
 
 .main {
+  font-family: '游明朝','Yu Mincho',YuMincho,'Hiragino Mincho Pro',serif;
   width: 955px;
   text-align: center;
   margin-right: auto;
