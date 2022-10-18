@@ -1,4 +1,8 @@
 /* ここから */
+body {
+    font-family: 'Amiri', serif;
+}
+
 h1,h2,h3,h4{
     font-weight: normal;
     color: #707070;
